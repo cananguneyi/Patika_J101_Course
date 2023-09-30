@@ -1,4 +1,10 @@
 public class MethodUs {
+
+
+    public void run () {
+        System.out.println("Sonuç: "+power(3,5));
+    }
+
     public int power(int base, int exp){
         int result = base;
         if(exp==0){
@@ -10,4 +16,4 @@ public class MethodUs {
         return result * power(base,exp-1);
     }
 }
-//2*2*2
+
