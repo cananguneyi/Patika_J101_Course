@@ -196,6 +196,3 @@ public class BurcBul {
      }
     }
 
-//hep sorsun yanlış yapınca dursun, şuan yanlış olunca da burcunuz diyor nedenn :((
-
-// müsait misin? şuan
